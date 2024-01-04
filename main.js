@@ -19,6 +19,6 @@ class Renderer{
         this.canvas = document.getElementById("board");
         this.ctx = this.canvas.getContext("2d");
         this.ctx.font = "30px Courier New";
-        this.ctx.fillText("Hello World", 10, 50);
+        this.ctx.fillText("123456789123456789123456789123456789", 10, 50);
     }
 }
